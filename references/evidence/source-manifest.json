@@ -1,0 +1,77 @@
+{
+  "review_date": "2026-11-10",
+  "base_directory": "examples",
+  "files": [
+    {
+      "file": "2010数学一解析.pdf",
+      "pages": 11,
+      "sha256": "478970b9a7bd5ecd93cf504168e5dc90ee1ff4e66fc6fcb4be89bcb8dad1f6d9"
+    },
+    {
+      "file": "2012数学一解析.pdf",
+      "pages": 9,
+      "sha256": "25895b0b374665410a91bc510c941e0b707e44b3f1fbca5e12ebb490ca911656"
+    },
+    {
+      "file": "2013数学一解析.pdf",
+      "pages": 8,
+      "sha256": "9487e73ac8d2f0cfa796858b0c542ce57e519d520bf5b8d0b8670fafae1cf673"
+    },
+    {
+      "file": "2014数学一解析.pdf",
+      "pages": 11,
+      "sha256": "a1d8b71c7068056cda9b535aab2269b7354641c1ada7088a649e572cf5275c42"
+    },
+    {
+      "file": "2015数学一解析.pdf",
+      "pages": 8,
+      "sha256": "477080297dda602ce47cd74733c95922ecd1cb3103a1dcfaa3fca6306ef35215"
+    },
+    {
+      "file": "2016数学一解析.pdf",
+      "pages": 10,
+      "sha256": "28a9cdc1dbb258ab23797c32b3e4909d7911d030846d4eecc9483a3c15fd96ea"
+    },
+    {
+      "file": "2017数学一解析.pdf",
+      "pages": 8,
+      "sha256": "90264335b40d9d9b3259d3b4eea2d6a3f878d313fe7a1e2da5f0e66f1bb188d1"
+    },
+    {
+      "file": "2018数学一解析.pdf",
+      "pages": 7,
+      "sha256": "e02f50c8a6656bb6257277c829940071f74b8eed923be635c31e3fc52bd10d28"
+    },
+    {
+      "file": "2019数学一解析.pdf",
+      "pages": 9,
+      "sha256": "71888c49e0576e1f577a3edb2ce31a9bfde572aa6abc18d5118b2ea6473eb465"
+    },
+    {
+      "file": "2021数学一解析.pdf",
+      "pages": 9,
+      "sha256": "112073055e942faa879b453cea2bfa36f60a2c9b36da178ae8ceee39adfde3a5"
+    },
+    {
+      "file": "2022数学一解析.pdf",
+      "pages": 26,
+      "sha256": "e583c1e10f9718e9f9ecdc8f0dd4b8599b2c4d94456507cd6b9a356feb6901fe"
+    },
+    {
+      "file": "2023数学一解析.pdf",
+      "pages": 10,
+      "sha256": "47868fc225ea335d3a082e04e2370c536969ecae324ad2bba9dad710d6020407"
+    },
+    {
+      "file": "2026数学一.pdf",
+      "pages": 8,
+      "sha256": "d4280ee4fba64eb117a23073bd6be9f1bbd3e8e4c8708a304b4abb4b8f2df405"
+    },
+    {
+      "file": "2、2010-2025考研数学一真题（直接打印）.pdf",
+      "pages": 68,
+      "sha256": "c691a07806c5cfcd94cc7672e68416330ee89ce192316a41dad058c47903c98c"
+    }
+  ],
+  "note": "指纹用于检测原文件变更；不表示每份重复解析均已逐页图读。385题题干覆盖原卷，验算状态见题级索引。"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研数学一模拟卷生成器"
+  short_description: "依逐题真题依据校准选填与大题，生成完整详解双PDF并附难度简评"
+  default_prompt: "使用 $kaoyan-math-mock-generator，对照本地历年真题及2021—2026整卷布局，生成原创数学一模拟卷、完整详解双PDF和有原题依据的难度简评。"

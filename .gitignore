@@ -1,0 +1,29 @@
+# Generated practice papers and local review work
+/output/
+/review-*/
+# PDF sources are versioned; extracted text and images are disposable
+/examples/*.txt
+*.png
+*.jpg
+*.jpeg
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# LaTeX build products (PDF references are intentionally retained)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+# Local credentials and environment
+.env
+.env.*
+!.env.example
